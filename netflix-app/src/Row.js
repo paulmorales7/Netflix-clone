@@ -7,7 +7,7 @@ const [movies, setMovies] = useState([]);
 useEffect(() => {
     async function fetchData(){
         const request = await axios.get(fetchUrl);
-        console.log(request)
+        setMovies(request.data.result)
         return request
     }
     fetchData();
