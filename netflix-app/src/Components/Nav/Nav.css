@@ -6,8 +6,12 @@
   height: 30px;
   padding: 20px;
   justify-content: space-between;
-  background-color: #111;
+
   z-index: 1;
+}
+
+.nav_black{
+    background-color: #111;
 }
 
 .nav_logo{
