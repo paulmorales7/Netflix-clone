@@ -1,7 +1,8 @@
 # Netflix-clone
 https://netflix-clone-7a1ff.web.app
 
-<img src='./netflixclone.png' />
+![netflixclone](https://user-images.githubusercontent.com/67281785/107866114-b0e2b600-6e32-11eb-8139-08956b02d8b1.png)
+
   # Table of Contents
   
   - [Description](#Description)
