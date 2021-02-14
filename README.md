@@ -14,9 +14,6 @@ https://netflix-clone-7a1ff.web.app
   - [Questions](#Questions)
 
   # Description
-  - [Questions](#Questions)
-
-  # Description
   ![License](https://img.shields.io/badge/License-apache,MIT,Boost,BSD-blue.svg "License Badge")
    - This app is a replicate of the very famous application, Netflix. Built the main landing page of Netflix with a main banner that has a netflix original show on display. All made possible with the Netflix API.
   # Usage
