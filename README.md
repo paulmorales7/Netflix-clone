@@ -1,7 +1,7 @@
 # Netflix-clone
 https://netflix-clone-7a1ff.web.app
 
-![](netflixclone.png)
+<img src='./netflixclone.png' alt='appImg' />
   # Table of Contents
   
   - [Description](#Description)
