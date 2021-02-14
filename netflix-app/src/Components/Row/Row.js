@@ -14,7 +14,6 @@ const base_url = "https://image.tmdb.org/t/p/original/";
         async function fetchData() {
             const request = await axios.get(fetchUrl);
             setMovies(request.data.results)
-            console.log(request.data.results)
             
             return request
         }
@@ -58,8 +57,10 @@ const base_url = "https://image.tmdb.org/t/p/original/";
                     src={`${base_url}${isLargeRow ? movie.poster_path : movie.backdrop_path}`} 
                     alt={movie.name} 
                     />
+                    
                 )
                 )}
+                 <h4>title</h4>
             </div>
             {/* {trailerUrl && <Youtube videoId={trailerUrl} opts={opts} />} */}
     </div>
