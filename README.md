@@ -1,4 +1,5 @@
 # Netflix-clone
+https://netflix-clone-7a1ff.web.app
 
 ![](netflixclone.png)
   # Table of Contents
@@ -31,4 +32,4 @@ with a main banner with a netflix original show on display. This was all possibl
   For any questions please review the project in Github. For any additional questions feel free to contact me.
   - Github: paulmorales7
   - Email: pmoralescode@gmail.com
-https://netflix-clone-7a1ff.web.app
+
