@@ -1,7 +1,7 @@
 # Netflix-clone
 https://netflix-clone-7a1ff.web.app
 
-<img src='C:\Users\PAULG\Projects\Netflix-clone\netflix-app\netflixclone.png' alt='appImg' />
+<img src='\netflixclone.png' alt='appImg' />
   # Table of Contents
   
   - [Description](#Description)
